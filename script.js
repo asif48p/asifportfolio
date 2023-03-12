@@ -3,7 +3,7 @@ const COMMANDS = {
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">certifications</span>, <span class="code">contact</span>',
   about:
-    "Hello I'm Asif Patha, a cyber security researcher with nearly 2 years of experience in the field. Currently I am pursing my Bachelor's degree in Electronics and communication engineering and I hold Metaxone certified ethical hacker(MCEH). I am well-equipped to identify and analyze potential security threats, vulnerabilites. I am excited to continue leveraging my skills and experience to help organizations stay ahead of potential cyber threats and protect their valuable assets.    ",
+    "Hello I'm Asif Pathan, a cyber security researcher with nearly 2 years of experience in the field. Currently I am pursing my Bachelor's degree in Electronics and communication engineering and I hold Metaxone certified ethical hacker(MCEH). I am well-equipped to identify and analyze potential security threats, vulnerabilites. I am excited to continue leveraging my skills and experience to help organizations stay ahead of potential cyber threats and protect their valuable assets.    ",
   skills:
     "Ethical Hacking | Penetration Testing | Red Teaming | Offensive Testing",
   education:
